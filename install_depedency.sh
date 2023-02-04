@@ -11,3 +11,4 @@ sudo apt update
 echo "Installing PHP...."
 sudo apt install -y php8.0 php8.0-fpm php8.0-mysql
 sudo apt install -y php8.0-soap php8.0-xml php8.0-curl php8.0-gd php8.0-intl php8.0-xmlrpc php8.0-zip php8.0-mbstring
+sudo apt install -y mysql-server

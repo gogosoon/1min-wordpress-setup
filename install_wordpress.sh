@@ -117,7 +117,6 @@ if [ "$is_mysql_sudo_works" = "0" ]; then
 		if [ "$res" = "0" ]; then
 			break;
 		fi
-		;;
 		echo "Please re-enter and try again."
 	done
 else
